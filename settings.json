@@ -1,0 +1,73 @@
+{
+    "workbench.colorTheme": "Nord Deep",
+    "workbench.preferredDarkColorTheme": "Nord Deep",
+    "catppuccin-noctis-icons.hidesExplorerArrows": false,
+    "workbench.iconTheme": "catppuccin noctis icons",
+    "workbench.productIconTheme": "macos-modern",
+    "positron.r.pipe": "%>%",
+    "positron.r.quietMode": true,
+    "positron.r.testing": false,
+    "shiny.previewType": "external",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.2,
+    "editor.scrollbar.verticalScrollbarSize": 8,
+    "editor.scrollbar.horizontalScrollbarSize": 8,
+    "window.density.editorTabHeight": "compact",
+    "workbench.colorCustomizations": {},
+    "[r]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "Posit.air-vscode"
+    },
+    "[quarto]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "quarto.quarto",
+        "editor.wordWrap": "off",
+        "editor.guides.bracketPairs": "active",
+        "editor.language.brackets": [
+            [
+                "::::",
+                ":::"
+            ]
+        ],
+        "editor.language.colorizedBracketPairs": [
+            [
+                "::::",
+                ":::"
+            ]
+        ]
+    },
+    "workbench.keybindings.rstudioKeybindings": true,
+    "files.associations": {
+        "renv.lock": "json"
+    },
+    "editor.formatOnSave": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "dataExplorer.summaryCollapsed": true,
+    "redhat.telemetry.enabled": true,
+    "snowflake.connectionsConfigFile": "/Users/alejandro.abraham@scalapay.com/.snowflake/connections.toml",
+    "atlascode.rovodev.enabled": false,
+    "atlascode.rovodev.thinkingBlockEnabled": false,
+    "workbench.externalUriOpeners": {
+        "http": "external",
+        "https": "external"
+    },
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "console.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "notebook.markup.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "notebook.output.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "quarto.visualEditor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.codeLensFontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.inlayHints.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "diffEditor.maxComputationTime": 0,
+    "claudeCode.preferredLocation": "panel",
+}

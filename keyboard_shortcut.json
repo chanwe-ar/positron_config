@@ -1,0 +1,22 @@
+[
+    {
+        "key": "ctrl+cmd+l",
+        "command": "expandLineSelection",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "cmd+l",
+        "command": "-expandLineSelection",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "cmd+l",
+        "command": "workbench.action.positronConsole.clearConsole",
+        "when": "editorFocus || positronConsoleFocused"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "-workbench.action.positronConsole.clearConsole",
+        "when": "editorFocus || positronConsoleFocused"
+    }
+]
