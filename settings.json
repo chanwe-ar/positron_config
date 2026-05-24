@@ -15,7 +15,7 @@
     "window.density.editorTabHeight": "compact",
     "workbench.colorCustomizations": {},
     "[r]": {
-        "editor.formatOnSave": true,
+        "editor.formatOnSave": false,
         "editor.tabSize": 4,
         "editor.defaultFormatter": "Posit.air-vscode"
     },
